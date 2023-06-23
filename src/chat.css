@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .message-thread {
+    margin-bottom: 3rem;
+  }
+  
+  .message {
+    margin-bottom: 0.5rem;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-container input {
+    margin-right: 0.5rem;
+  }
+
+.bg{
+    background-color: #60a832;
+    opacity: 0.6;
+    background-size: cover;
+}
+
+.bg:hover {
+    opacity: 1.2;
+  }
+
+  .text{
+
+    font-size:20px;
+  }
+
+  .text1{
+
+    font-size:17px;
+  }
